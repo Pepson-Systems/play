@@ -18,6 +18,8 @@ Password: <input type="password">
 <button> Register for a Free Account </button>
 #### OR
 <button> Register for a PLUS Account </button>
+##### Other Login Options
+Cooming Soon!
 
 
 
